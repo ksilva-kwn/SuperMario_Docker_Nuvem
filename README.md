@@ -41,7 +41,7 @@ Após isso o jogo logo irá começar e é so se divertir, o site do docker Playg
 
  <div align="center" valign="top">
 
-### Video do jogo rodando
+### Video do jogo rodando no navegador
 <img src="https://github.com/ksilva-kwn/SuperMario_Docker_Nuvem/blob/main/supermario-images-print/video-mario.gif" width="800" height="400"><br>
  <i>A magical universe can be born from small ideas! ⭐️</i> <br> <br>
 </div>
