@@ -6,7 +6,7 @@ https://labs.play-with-docker.com/
 
 # Passo 1 - Start
 
-Acesse o site Play With Docker, aperte em Start e inicie uma maquina
+Acesse o site Play With Docker, aperte em Start e inicie.
 
 <img  alt="Windows" src="https://raw.githubusercontent.com/ksilva-kwn/SuperMario_Docker_Nuvem/main/supermario-images-print/Captura%20de%20tela%202023-11-13%20212250.png">
 
@@ -14,15 +14,15 @@ Acesse o site Play With Docker, aperte em Start e inicie uma maquina
 
 # Passo 2 - Adicione uma instância de máquina
 
-Clique em Add New Instance na parte esquerda, e em seguida irá aparecer o terminar em sua tela, nesta máquina ja estará rodando o docker, então é so inserir os códigos e rodar o container.
+A seguir, clique em 'Add New Instance' na parte esquerda, e em seguida irá aparecer o terminal em sua tela, nesta máquina já estará rodando o docker, então é so inserir o comando e rodar o container.
 
 <img  alt="Windows" src="https://raw.githubusercontent.com/ksilva-kwn/SuperMario_Docker_Nuvem/main/supermario-images-print/Captura%20de%20tela%202023-11-13%20212914.png">
 
 <br>
 
-# Passo 3 - Execute o código
+# Passo 3 - Execute o comando
 
-Em seguida execute o seguinte comando no terminal
+Em seguida execute o seguinte comando no terminal:
 
 ```
 
