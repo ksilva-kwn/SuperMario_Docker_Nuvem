@@ -1,8 +1,6 @@
 # SuperMario Docker na Nuvem
 Criando um container que roda uma imagem do Super Mario, hospedado na nuvem, e acessando via browser
 
-<br>
-
 # Passo 1 - Start
 
 Acesse o site Play With Docker, aperte em Start e inicie uma maquina
